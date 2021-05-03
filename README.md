@@ -1,3 +1,4 @@
+
 # Edublog
 
 ## Feature requirements:
@@ -26,6 +27,15 @@
 * Post create/delete ability
 * User comments 
 * Saving the posts
+<br>
+Screenshots
 
-
+![Screenshot (104)](https://user-images.githubusercontent.com/47149499/116847881-19a72680-ac09-11eb-9239-a95df4759b66.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/47149499/116847888-1ca21700-ac09-11eb-93fe-501302b1386d.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/47149499/116847891-1dd34400-ac09-11eb-919d-49ca96654e6f.png)
+![Screenshot (107)](https://user-images.githubusercontent.com/47149499/116847894-1e6bda80-ac09-11eb-8814-3c3be9bbc117.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/47149499/116847896-1f9d0780-ac09-11eb-91e9-d691569bd2a5.png)
+![Screenshot (109)](https://user-images.githubusercontent.com/47149499/116847899-20ce3480-ac09-11eb-86c1-e4474fd25dbe.png)
+![Screenshot (110)](https://user-images.githubusercontent.com/47149499/116847901-2166cb00-ac09-11eb-9242-26d364467830.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/47149499/116847904-2297f800-ac09-11eb-98b6-a5e705406b64.png)
 
