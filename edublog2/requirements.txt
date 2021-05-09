@@ -6,14 +6,12 @@ django-bootstrap3==12.0.3
 django-braces==1.14.0
 django-ckeditor==5.9.0
 django-crispy-forms==1.9.2
-django-heroku==0.3.1
 django-js-asset==1.2.2
 django-rest-auth==0.9.5
 django-widget-tweaks==1.4.8
 djangorestframework==3.11.0
 djangorestframework-jwt==1.11.0
 docutils==0.15.2
-gunicorn==20.1.0
 ipython==7.8.0
 misaka==2.1.1
 python-dateutil==2.8.0
